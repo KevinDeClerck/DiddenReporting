@@ -1,0 +1,27 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-firebase-realtime-database": {
+      "PACKAGE_NAME": "be.odisee.kevindeclerck.mi3project1"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "be.odisee.kevindeclerck.mi3project1"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "be.odisee.kevindeclerck.mi3project1"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "be.odisee.kevindeclerck.mi3project1"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "be.odisee.kevindeclerck.mi3project1"
+    }
+  },
+  "dependent_plugins": {}
+}
